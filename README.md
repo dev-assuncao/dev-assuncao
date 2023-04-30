@@ -6,13 +6,56 @@
 * Studying ASP.NET Core :books: :sparkling_heart:.
 
 ## Knowledge and skills:
-* Development of back-end systems;
-* Requirements analysis;
-* Code Versioning and Repositories (Git and GitHub);
-* Database modeling;
-* Architectures: MVC;
-* Frameworks:  ASP.NET Core, Entity Framework Core.
+Focusing on WEB applications on the back-end I have:
 
+Knowledge and skills:
+* Development of back-end systems;
+* Analysis of requirements;
+* Versioning of code and Repositories (Git and GitHub);
+* Database Queries (SQL Server)
+* RESTful API
+* Architectures and good code practices: (Clean Code, SOLID, Repository Patterns).
+
+Programming paradigms:
+* OOP, Functional Programming.
+
+Architectures:
+* MVC;
+* Web API;
+* SOLID;
+* REST
+
+Database:
+* MySQL;
+* SQL Server.
+
+WEB:
+* HTML5;
+* CSS.
+* JavaScript
+* Angular
+
+BACKEND:
+* C#.
+
+FRAMEWORKS / TOOLS:
+* ASP.NET CORE 2.2/3.0/5.0/6.0/current;
+* ORM: Entity Framework Core;
+* Identity;
+* Fluent Validation;
+* Fluent API;
+* AutoMapper;
+* Postman;
+* IDE's: (Visual Studio/Code).
+
+DevOps / Agile:
+* Jira;
+* ALM Octane;
+* Jenkins*.
+
+OS:
+* Windows;
+* Linux RedHat (servers).
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60" style="max-width:100%;"></img>
