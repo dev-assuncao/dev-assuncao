@@ -2,8 +2,7 @@
 
 # I'm Davisson Assunção
 * I live in Mauá, São Paulo :brazil:.
-* Backend web developer :computer:.
-* Studying ASP.NET Core :books: :sparkling_heart:.
+* .NET Developer :computer:.
 
 ## Knowledge and skills:
 Focusing on WEB applications on the back-end I have:
